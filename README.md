@@ -1,0 +1,1 @@
+# predicting-energy-consumption-patterns-using-time-series-forcasting-for-smart-grids
